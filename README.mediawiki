@@ -92,3 +92,8 @@ FF14だけでなくネトゲ全般で良く見る単語など。
 
 == FC内の名言・用語集 ==
 まだないよ！
+
+== 外部サイトリンク集 ==
+* [http://jp.finalfantasyxiv.com/lodestone/ FFXIV:Lodestone]
+** [http://jp.finalfantasyxiv.com/lodestone/freecompany/9231534811179389335/ HTDのFCページ]
+* [http://www.teamspeak.com/?page=teamspeak3 TeamSpeak3]：ボイスチャットツール
