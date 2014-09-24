@@ -4,6 +4,8 @@
 
 == 基礎編 ==
 
+<a href="https://picasaweb.google.com/lh/photo/lk0H5O4KT1XUDzuAsEH9sdMTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-pVMwChxYBng/VA-dDj8YLeI/AAAAAAAAPbA/P6bdAXGdbNc/s288/2014-09-09.jpg" height="256" width="288" /></a>
+
 見ての通り、クロスホットバーは4つの十字で構成されてます。操作は左から順に以下の通り。
 
 * '''R2ボタン＋十字ボタン'''
@@ -22,12 +24,73 @@
 あとスキルの位置は、なるべく新しく覚えたときに変えておきたいですね。
 操作はなるべく早めに体に覚えさせるに越したことないので。
 
+== マイルール ==
+
+上の基礎で書いたのをベースとして、以下のような感じ。
+
+* 咄嗟に使いたい系はクロスホットバー、普通に使う系はホットバー1に登録。
+* クロスホットバーは切り替えずに1枚で使用。
+* レベルシンク用されて低レベルでも使うことが多いスキルは、クロスの一番右側に登録。
+* 強化系のバフスキルはクロスの一番左側に登録。
+* マウント、スプリント、ケアル（フィジク）、レイズ、プロテスの位置は、全クラス共通で固定位置。
+* ホットバーの1キーはアシストマクロ。その隣は「次の敵をタゲる」マクロ。
+* テレポ、デジョンは戦闘中使わないので、クロス7枚目だか8枚目だかのクラス共通ページに押しやりました。
+
 == 職業別 ==
 
 === 白魔道士 ===
 
+<a href="https://picasaweb.google.com/lh/photo/Xr57cCNW7oUGUHHH-6I-ldMTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-e6m9D0llMjk/VA-dDoN3RCI/AAAAAAAAPbA/SaKbfpkT4rc/s288/2014-09-09.jpg" height="265" width="288" /></a>
+
+* 範囲回復系はメディカラだけクロス。他のメディカ、ケアルガは上のホットバー。使う時は腰を据えて使う感じ。
+* 迅速魔はホントよく使うけど、操作ミスでの暴発を避けるためにやや押しづらい位置に登録。
+* エアロラはどうせ初撃くらいしか使わないしMP節約のために切ることも多いので、クロスから除去。
+* ベネディクションはマクロ化してて、PTの2番目の人用、3番目の人用って2つ用意してます。（MT・ST用）
+* リジェネは即撃てるように左手の出しやすい位置に。
+* リポーズは「次の敵をタゲるマクロ」の隣に置いて、気軽に回しながら撃てるようにしてます。まず1キーのアシストマクロでtankのタゲにあわせ、そこから2キー＋3キーで次々と睡眠ばらまくイメージです。
+
 === ナイト ===
+
+<a href="https://picasaweb.google.com/lh/photo/88zTWXp0jVKgysmrlxc2V9MTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-lPHcoHX6gdQ/VA-dDn4g6AI/AAAAAAAAPbA/KV1CbQfcBWE/s288/2014-09-09.jpg" height="252" width="288" /></a>
+
+ソーサラー職と比べてかなり変えてます。tankはやはりやることが違うので。
+
+* 一番よく使う右手1本の位置には、スキル回しを置いてません。スキル回しよりもさらに咄嗟に使いたいシールドロブ、スタン、フラッシュをここに置いてます。
+* ケアル、レイズは白と共通位置。ストスキはバフの一環として8キーに配置。（頻繁には使わないイメージ
+* 挑発は使いやすいリジェネと同じ位置に。なんか自分の中でこの位置は使いやすポジ。
+* ホットバー1キー、2キーはマーキング用。まあアシストマクロが不要だしねtank。
+* 敵のタゲ切り替えは基本tabキーでやってます。
+* あとはずらっとバフがホットバーに並んでます。
+
+他のクラスもそうだけど、ホットバーの9より右は、1回1回に大きく意味があるスキルを置いてます。それより左はスキル回しとか気軽に使う系。
 
 === 黒魔道士 ===
 
+<a href="https://picasaweb.google.com/lh/photo/v-RKYFSilrjic1xWgdPuk9MTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-GCHc5oN1omI/VA-dDvmBxNI/AAAAAAAAPbA/CYV5uZrX4IQ/s288/2014-09-09.jpg" height="270" width="288" /></a>
+
+* ファイガ、ブリザガはよく使うので左手1本で使える位置のクロスに登録。基本的には左手1本か右手1本の交互でスキル回しができるようになってる。
+* 迅速魔は白と同じ位置に配置。
+* フレア、フリーズはまあそんな使わないしホットバー行き。
+* ファイラ、ブリザラもまあそんな使わないしクロスだけど押しづらい位置行き。
+* LBは割と使いやすいCtrl+1キーという、アシストマクロの上に配置。
+* デジョンが残ってるのは、この位置に置くべきものが見つからなかっただけです。あ、フレア置いてもいいな。
+
 === 召喚士 ===
+
+<a href="https://picasaweb.google.com/lh/photo/WnaB29inU7iFCIdi7rNL19MTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-iXzlk1N9hWM/VA-dDuZoHdI/AAAAAAAAPbA/pTJhy01ROFI/s288/2014-09-09.jpg" height="275" width="288" /></a>
+
+あんま稼働率高くないんで参考にならんと思う（
+
+基本的に、他のクラスと似たような役割のスキルがあればそれと被らせるようにして、操作ミスを防いでます。
+
+* 迅速魔は白と同じ位置。
+* LBは黒と同じ位置。
+* サスティンは白のリジェネと同じ位置。
+* バイオは白のエアロと同じ位置。
+* リザレクはレイズと同じ位置。
+* ミアズラは白のブリザラと同じ位置。
+* サモン系はそんなにばしばし使わないので、Ctrl+234に配置。
+
+あとは適当！
+
+正直巴術系はスキル多すぎて管理に困るっす。
