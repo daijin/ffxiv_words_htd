@@ -211,9 +211,3 @@ Windowsキーボードではないので、一部独自の操作となる。
 == FC内の名言・用語集 ==
 * じゃじゅつし：いさみさんが「呪術士」をこう呼んでいたので。
 
-== 外部サイトリンク集 ==
-* [http://jp.finalfantasyxiv.com/lodestone/ FFXIV:Lodestone]
-** [http://jp.finalfantasyxiv.com/lodestone/freecompany/9231534811179389335/ HTDのFCページ]
-* [http://www.teamspeak.com/?page=teamspeak3 TeamSpeak3]：ボイスチャットツール
-
-* [https://github.com/daijin/dqx_words_htd DQXチーム向け用語集]
