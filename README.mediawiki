@@ -1,0 +1,18 @@
+身内向けのFF14まとめだけど、身内以外の方が読んでも大丈夫だよたぶん！
+
+== 記事一覧 ==
+
+* [[words.mediawiki|用語集]]
+
+* [[beginner.mediawiki|レベリングガイドライン]]
+* [[over_lv50.mediawiki|Lv50達成後のコンテンツ紹介]]
+* [[contents.mediawiki|各コンテンツ攻略ガイド]]
+* [[hud_daijin.mediawiki|HUD講座]]
+* [[macro.mediawiki|マクロガイド]]
+
+== 外部サイトリンク集 ==
+* [http://jp.finalfantasyxiv.com/lodestone/ FFXIV:Lodestone]
+** [http://jp.finalfantasyxiv.com/lodestone/freecompany/9231534811179389335/ HTDのFCページ]
+* [http://www.teamspeak.com/?page=teamspeak3 TeamSpeak3]：ボイスチャットツール
+
+* [https://github.com/daijin/dqx_words_htd DQXチーム向け用語集]
