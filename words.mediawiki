@@ -1,12 +1,5 @@
 FCチャットでよく飛び交う略語とかをまとめてみました。
 
-以下も合わせてどうぞ。
-
-* [[beginner.mediawiki|レベリングガイドライン]]
-* [[over_lv50.mediawiki|Lv50達成後のコンテンツ紹介]]
-* [[contents.mediawiki|各コンテンツ攻略ガイド]]
-* [[hud_daijin.mediawiki|HUD講座]]
-
 == ネトゲ用語系 ==
 FF14だけでなくネトゲ全般で良く見る単語など。
 
