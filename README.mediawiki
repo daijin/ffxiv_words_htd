@@ -2,17 +2,23 @@
 
 == 記事一覧 ==
 
-* [[words.mediawiki|用語集]]
+* 基礎編
+** [[words.mediawiki|用語集]]：各種略語など
+** [[tips.mediawiki|Tips集]]：購入前情報や、プレイ中での豆知識
 
-* [[beginner.mediawiki|レベリングガイドライン]]
-* [[over_lv50.mediawiki|Lv50達成後のコンテンツ紹介]]
-* [[contents.mediawiki|各コンテンツ攻略ガイド]]
-* [[hud_daijin.mediawiki|HUD講座]]
-* [[macro.mediawiki|マクロガイド]]
+* コンテンツを楽しむ
+** [[beginner.mediawiki|レベリングガイドライン]]
+** [[over_lv50.mediawiki|Lv50達成後のコンテンツ紹介]]
+** [[contents.mediawiki|コンテンツ別攻略ガイドライン]]
+
+* カスタマイズ関連
+** [[macro.mediawiki|マクロガイドライン]]
+** [[hud_daijin.mediawiki|HUD講座]]：大臣版
 
 == 外部サイトリンク集 ==
 * [http://jp.finalfantasyxiv.com/lodestone/ FFXIV:Lodestone]
 ** [http://jp.finalfantasyxiv.com/lodestone/freecompany/9231534811179389335/ HTDのFCページ]
+
 * [http://www.teamspeak.com/?page=teamspeak3 TeamSpeak3]：ボイスチャットツール
 
 * [https://github.com/daijin/dqx_words_htd DQXチーム向け用語集]
