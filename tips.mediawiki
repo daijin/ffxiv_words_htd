@@ -116,7 +116,7 @@ CE パッケージ版にはさらに以下の物理的な特典がついてき�
 
 [[macro.mediawiki|マクロガイド]]もご参考に。
 
-== Apple Keyboardによる操作 ==
+=== Apple Keyboardによる操作 ===
 
 Windowsキーボードではないので、一部独自の操作となる。
 
