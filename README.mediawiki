@@ -10,6 +10,8 @@
 ** [[beginner.mediawiki|レベリングガイドライン]]
 ** [[over_lv50.mediawiki|Lv50達成後のコンテンツ紹介]]
 ** [[contents.mediawiki|コンテンツ別攻略ガイドライン]]
+** [[gilgilgil.mediawiki|金策]]
+** [[motoneta.mediawiki|FF14に登場する小ネタの元ネタ]]
 
 * カスタマイズ関連
 ** [[macro.mediawiki|マクロガイドライン]]
