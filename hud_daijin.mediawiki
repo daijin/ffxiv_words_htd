@@ -94,3 +94,20 @@
 あとは適当！
 
 正直巴術系はスキル多すぎて管理に困るっす。
+
+=== 忍者 ===
+
+実用スキルが多すぎるお陰で、'''L2+R2同時押し'''デビューを果たしました。
+
+<a href="https://picasaweb.google.com/lh/photo/Y3hhYaFJBwopfQxTusd-VNMTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-r9Chl8Fr3c4/VHfOdwA3yBI/AAAAAAAARIY/KDMiMFlOd4w/s288/image1.JPG" height="288" width="221" /></a> <a href="https://picasaweb.google.com/lh/photo/GsaZNEjpZ5tXxb9n2Ukq99MTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-1YYWJESK2Mk/VHfOelGIJcI/AAAAAAAARIg/jJHntlSH20E/s288/image2.JPG" height="288" width="226" /></a>
+
+左が通常、右が同時押し時。1キー2キーのマクロは白と同様。
+
+* 通常のコンボはすべてR2のみでやる。忍術はL2のみでやる。
+* 喉切りは、ナイトのサークルオブドゥームと同じくらいの頻度だから同じ位置に。忍術も同様にスピリッツウィズインと同じ位置。
+* バフ系はL2R2両押しに押しやり。発勁だけは即使いたいからL2の位置に。
+* かくれる時・水遁の術時のみ使用する2スキルも両押し位置に押しやり。
+* 両押しに回したスキルのリキャストタイムを見れるように、上部ホットバーに一応アイコンだけセット。
+* 叱咤や蛇毒、蜂毒はそんなに使わないしなのでホットバー送り。
+
+忍者はスキルが多くて楽しいです。
