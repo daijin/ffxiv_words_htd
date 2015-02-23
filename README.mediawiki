@@ -6,16 +6,18 @@
 ** [[words.mediawiki|用語集]]：各種略語など
 ** [[tips.mediawiki|Tips集]]：購入前情報や、プレイ中での豆知識
 
+* カスタマイズ関連
+** [[macro.mediawiki|マクロガイドライン]]
+** [[hud_daijin.mediawiki|あるちちゃんのHUD講座]]
+
 * コンテンツを楽しむ
 ** [[beginner.mediawiki|レベリングガイドライン]]
 ** [[over_lv50.mediawiki|Lv50達成後のコンテンツ紹介]]
-** [[contents.mediawiki|コンテンツ別攻略ガイドライン]]
-** [[gilgilgil.mediawiki|金策]]
+** [[contents.mediawiki|ボス系コンテンツ別攻略ガイドライン]]
+** [[angler.mediawiki|あるちちゃんの釣り師指南所]]
+** [https://github.com/skyriser/ffxiv-crafter-notes すかいちゃんのクラフターメモ]
+** [[gilgilgil.mediawiki|金策メモ]]
 ** [[motoneta.mediawiki|FF14に登場する小ネタの元ネタ]]
-
-* カスタマイズ関連
-** [[macro.mediawiki|マクロガイドライン]]
-** [[hud_daijin.mediawiki|HUD講座]]：大臣版
 
 == 外部サイトリンク集 ==
 * [http://jp.finalfantasyxiv.com/lodestone/ FFXIV:Lodestone]
