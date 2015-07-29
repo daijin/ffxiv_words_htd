@@ -14,7 +14,7 @@
 ** [[beginner.mediawiki|レベリングガイドライン]]
 ** [[over_lv50.mediawiki|Lv50達成後のコンテンツ紹介]]
 ** [[contents.mediawiki|ボス系コンテンツ別攻略ガイドライン]]
-** [[angler.mediawiki|あるちちゃんの釣り師指南所]]
+** [[angler.md|あるちちゃんの釣り師指南所]]
 ** [https://github.com/skyriser/ffxiv-crafter-notes すかいちゃんのクラフターメモ]
 ** [[gilgilgil.mediawiki|金策メモ]]
 ** [[motoneta.mediawiki|FF14に登場する小ネタの元ネタ]]
