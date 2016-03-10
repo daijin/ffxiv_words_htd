@@ -1,6 +1,6 @@
 # Lv60達成後のコンテンツ
 
-※ここはv3.2時点での情報です。<br/>
+※ここはv3.21時点での情報です。<br/>
 ※当然ですがネタバレを含みます。
 
 ## メインストーリー進行
@@ -107,8 +107,12 @@ Lv50の大迷宮バハムートに相当するもの。現状以下が挑戦可�
 ### 機工城アレキサンダー零式
 上級コンテンツ。いずれもノーマル難易度の4層までクリアすると解放される。現状では最難関コンテンツ。
 
-* アレキサンダー起動編零式（1～4層）：週制限なし。ゴルディオン装備（IL210）が手に入る
-* アレキサンダー律動編零式（1～4層）：週制限あり。ミダース装備（IL240～245）が手に入る
+* アレキサンダー起動編零式（1～4層）：週制限なし。CF対応。ゴルディオン装備（IL210）が手に入る。IL制限は以下。
+ * 1層：IL190～
+ * 2層：IL195～
+ * 3層：IL200～
+ * 4層：IL205～
+* アレキサンダー律動編零式（1～4層）：週制限あり。CF未対応。ミダース装備（IL240～245）が手に入る
 * ？？？
 
 ### 24人レイドダンジョン
@@ -180,3 +184,13 @@ Lv60（またはそのちょっと前）に解放される新規サブクエス�
 * いずれかのヒーラー職のLv60クエストクリア
 * コンテンツ1000回クリア
 * MIP300以上
+
+## 参考URL
+* [パッチノート3.21](http://jp.finalfantasyxiv.com/lodestone/topics/detail/f93804f51c741616aae3c7801bd866203a70c630)
+* [パッチノート3.2](http://jp.finalfantasyxiv.com/lodestone/topics/detail/7abc9fa4bbf7e73d1c94eaaeea46fcff603aa97a)
+* [パッチノート3.15](http://jp.finalfantasyxiv.com/lodestone/topics/detail/831d4b3d1e1d8e0f29049cd7a4181cb6d2544a23)
+* [パッチノート3.1](http://jp.finalfantasyxiv.com/lodestone/topics/detail/61cdb0420db37fb48aacce8f827525a4c37c7bec)
+* [パッチノート3.07](http://jp.finalfantasyxiv.com/lodestone/topics/detail/616bc3afc5a254c9ed7f6c09b50384579fb2ce1d)
+* [パッチノート3.05](http://jp.finalfantasyxiv.com/lodestone/topics/detail/0fb10bfa5fb0d98e8df53ae34708af0ec030e6e8)
+* [パッチノート3.01](http://jp.finalfantasyxiv.com/lodestone/topics/detail/af0b182500d333b21453da4a4e1fbfe0130a668d)
+* [パッチノート3.0](http://jp.finalfantasyxiv.com/lodestone/topics/detail/3a31eca82d4316c5a2fd0f68c89befb5e5791022)
